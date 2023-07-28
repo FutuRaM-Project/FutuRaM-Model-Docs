@@ -4,7 +4,7 @@ This is where we display the documentation for the FutuRaMa SRM recovery model
 
 It has to be a public repository, otherwise there is no free hosting.
 
-The main documentation is in the `docs` folder. Of the 'IntegratedModel' repository.
+The main documentation is in the `docs` folder of the 'IntegratedModel' repository.
 The details come from the doc strings in the code. So please make sure to document the code well.
 It will make it easier for everyone to understand what is going on and hopefully
 not have to add too much explanation later in the documentation.
@@ -14,12 +14,21 @@ not have to add too much explanation later in the documentation.
 So, changes to the main package will need to be updated with sphinx with the following command:
 
 ```
-
 sphinx-apidoc -f -o docs/ ../IntegratedModel
+make html
 ```
 
 Then, the changes need to be pushed to the main repository and then copied (locally) to the `FutuRaM-Model-Docs` repository.
-Also, the changes need to be pushed to the `FutuRaM-Model-Docs` repository.
+```
+cp -r ../IntegratedModel/docs/* docs/
+```
+
+Then, the changes need to be committed and pushed to the `FutuRaM-Model-Docs` repository.
+```
+git add .
+git commit -m "Updated documentation"
+git push
+```
 
 After that, the documentation will be updated automatically on the website.
 
