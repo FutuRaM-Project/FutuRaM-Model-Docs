@@ -29,7 +29,7 @@ git add .
 git commit -m "Updated documentation"
 git push
 ```
-
+and
 After that, the documentation will be updated automatically on the website.
 
 That's a few annoying steps, but its the only way to get free hosting for the documentation.
