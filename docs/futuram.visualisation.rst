@@ -1,4 +1,4 @@
-Visualisation:
+Visualisation
 ==============
 
 Description
@@ -43,10 +43,3 @@ futuram.visualisation.make\_network module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: futuram.visualisation
-   :members:
-   :undoc-members:
-   :show-inheritance:

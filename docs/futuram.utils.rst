@@ -1,4 +1,4 @@
-Utilities:
+Utilities
 ==========
 
 Description
@@ -76,10 +76,3 @@ futuram.utils.validate\_model module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: futuram.utils
-   :members:
-   :undoc-members:
-   :show-inheritance:
