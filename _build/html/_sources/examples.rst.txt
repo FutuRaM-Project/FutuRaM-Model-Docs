@@ -4,7 +4,7 @@ Examples
 TestModel_ELV:
 ---------------
 
-`TestModel_ELV <examples/TestModel_ELV.html>`_ is a simple model with a single input.
+`TestModel_ELV <examples/TestModel_ELV.html>`_ is a simple model with a single input of ELVs.
 
 Try the ipython notebook  
 
