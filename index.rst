@@ -11,13 +11,9 @@ FutuRaM - SRM recovery model
    :width: 70%
 
 ------------------------------------------------------------------
-
-------------------------------------------------------------------
-
 Welcome to documentation site for the model
 ------------------------------------------------------------------
 
-------------------------------------------------------------------
 
 
 This model is a part of the FutuRaM project, which is a project funded by the European Union's Horizon 2020 research and innovation programme.
