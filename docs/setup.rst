@@ -60,9 +60,9 @@ If you want to make your own virtual environment, you can do so by running the f
 
 Then activate it as in the previous section.
 
-Install the package (works also in conda environments)
+Install the package 
 ------------------------------------------------------
-
+(works also in conda environments, but you have to use 'pip install ./src')
 Once you have activated the virtual environment, you can install the package by running the following command in the terminal:
 
 .. code-block:: bash
