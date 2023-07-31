@@ -14,7 +14,7 @@ FutuRaM - SRM recovery model
 
 ------------------------------------------------------------------
 
-Welcome to documentation site for the FutuRaM SRM recovery model
+Welcome to documentation site for the model
 ------------------------------------------------------------------
 
 ------------------------------------------------------------------
