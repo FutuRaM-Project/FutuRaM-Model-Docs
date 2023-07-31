@@ -23,7 +23,7 @@ This model is a part of the FutuRaM project, which is a project funded by the Eu
 
 See the official `project website <https://www.futuram.eu>`_ for more information
 
-The main GitHub repository for the model is `here <https://github.com/FutuRaM-Project/IntegratedModel>_
+The main GitHub repository for the model is `here <https://github.com/FutuRaM-Project/IntegratedModel>_`
 
 Goal and scope of the model
 ----------------------------
@@ -64,11 +64,10 @@ Contents
 ------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    setup
+   examples
    futuram.classes
    futuram.utils
    futuram.visualisation
-   modules
-   examples
