@@ -14,10 +14,10 @@ FutuRaM - SRM recovery model
 ----
 
 ------------------------------------------------------------------
-Welcome to documentation site for the model
+Welcome to documentation site!
 ------------------------------------------------------------------
 
-
+This site is continuously updated as the codebase evolves.
 
 This model is a part of the FutuRaM project, which is a project funded by the European Union's Horizon 2020 research and innovation programme.
 
