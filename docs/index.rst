@@ -68,6 +68,4 @@ Contents
 
    setup
    examples
-   futuram.classes
-   futuram.utils
-   futuram.visualisation
+   modules
