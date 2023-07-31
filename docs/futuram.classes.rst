@@ -1,5 +1,3 @@
-futuram.classes package
-=======================
 
 Classes
 ========
