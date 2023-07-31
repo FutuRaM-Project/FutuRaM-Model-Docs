@@ -87,3 +87,6 @@ Now, you can open a python console or and IDE (Visual Studio Code is recommended
    import futuram as f
 
 From here, you can build your own model or explore one of the examples.
+
+
+.. toc:: :depth: 2
