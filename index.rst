@@ -2,8 +2,8 @@
    sphinx-quickstart on Fri Jul 28 13:21:00 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-.. class:: center
-   FutuRaM - SRM recovery model
+
+FutuRaM - SRM recovery model
 ===========================================================
 
 .. image:: /_static/futuram_baseline.jpg
@@ -13,8 +13,8 @@
 ------------------------------------------------------------------
 
 ------------------------------------------------------------------
-.. class:: center
-   Welcome to documentation site for the FutuRaM SRM recovery model
+
+Welcome to documentation site for the FutuRaM SRM recovery model
 ------------------------------------------------------------------
 
 ------------------------------------------------------------------
@@ -64,7 +64,7 @@ License
 The model is licensed under the MIT license. See the LICENSE file for more details.
 
 
-Indices and tables
+Contents
 ------------------
 
 .. toctree::
