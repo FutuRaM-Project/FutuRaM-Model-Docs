@@ -8,13 +8,13 @@ FutuRaM - SRM recovery model
 
 .. image:: /_static/futuram_baseline.jpg
    :align: center
-   :width: 50%
+   :width: 70%
 
 ------------------------------------------------------------------
 
 ------------------------------------------------------------------
 
-Welcome to documentation site for the FutuRaM SRM recovery Model
+Welcome to documentation site for the FutuRaM SRM recovery model
 ------------------------------------------------------------------
 
 ------------------------------------------------------------------
