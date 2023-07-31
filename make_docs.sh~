@@ -1,9 +1,10 @@
 #! bin/bash
-venv futuram-dev
+
 cd ~/code/gh/futuram/IntegratedModel
 cd docs
 make html
 cd ..
+ghpush update-docs
 
 cp -R docs/* ../FutuRaM-Model-Docs
 cd ../FutuRaM-Model-Docs
