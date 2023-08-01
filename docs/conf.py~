@@ -18,7 +18,7 @@ author = 'S.C.McDowall'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ['sphinx.ext.autodoc','sphinx.ext.napoleon','sphinx.ext.duration','sphinx.ext.doctest','sphinx.ext.autosummary',
-    'auto-api.extension'
+    'autoapi.extension'
 ]
 
 autoapi_dirs = ['../src/futuram']
