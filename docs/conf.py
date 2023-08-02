@@ -11,7 +11,6 @@ import sys
 sys.path.insert(0, os.path.abspath('../src'))
 
 project = 'FutuRaM - SRM recovery modelling'
-copyright = '2023, S.C.McDowall'
 author = 'S.C.McDowall'
 
 # -- General configuration ---------------------------------------------------
@@ -19,7 +18,7 @@ author = 'S.C.McDowall'
 
 extensions = ['sphinx.ext.autodoc','sphinx.ext.napoleon','sphinx.ext.duration','sphinx.ext.doctest','sphinx.ext.autosummary', 'autoapi.extension']
 
-autoapi_dirs = ['../src/futuram']
+autoapi_dirs = ['../src']
 
 source_suffix = ['.rst']
 templates_path = ['_templates']
@@ -32,4 +31,3 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-
