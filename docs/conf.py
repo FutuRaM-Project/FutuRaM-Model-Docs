@@ -8,7 +8,7 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../src'))
+sys.path.insert(0, os.path.abspath('../src/futuram'))
 
 project = 'FutuRaM - SRM recovery modelling'
 author = 'S.C.McDowall'
@@ -16,9 +16,16 @@ author = 'S.C.McDowall'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.autodoc','sphinx.ext.napoleon','sphinx.ext.duration','sphinx.ext.doctest','sphinx.ext.autosummary', 'autoapi.extension']
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.napoleon',
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx.ext.autosummary',
+    'autoapi.extension'
+    ]
 
-autoapi_dirs = ['../src']
+autoapi_dirs = ['../src/futuram']
 
 source_suffix = ['.rst']
 templates_path = ['_templates']
