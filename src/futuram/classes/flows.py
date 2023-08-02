@@ -10,6 +10,7 @@ Dependencies:
 - pandas
 - matter.py
 - processes.py
+
 """
 
 import pandas as pd
@@ -29,6 +30,7 @@ class Flow:
         amount (float): The amount of material or energy in the flow.
         composition (dict): A dictionary representing the composition of the flow.
         unit (str): The unit of measurement for the flow.
+
     """
 
     def __init__(self, model, process_from, process_to, composition, unit="kg"):
@@ -53,6 +55,7 @@ class Flow:
 
         Raises:
             TypeError: If the amount is not a number.
+            
         """
         if not isinstance(amount, (int, float)):
             raise TypeError("Amount must be a number.")
